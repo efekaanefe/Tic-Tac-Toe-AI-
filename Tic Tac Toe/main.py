@@ -53,6 +53,13 @@ def main():
 				row, col = findBestCoordinate(board)
 				board.putPiece(row, col)
 				#print(board)
+		else: 
+			print("DRAW")
+			drawBoardAndGrid(board.board)
+			print("RESETING BOARD")
+			pygame.time.delay(1000)
+			board.reset()
+			#board.gameover = True
 
 		#win/draw condition check and "whose turn" indicator
 		if piecePut:
