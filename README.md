@@ -16,3 +16,4 @@ GUI can be improved.
    (Terminal is used a lot to inform player)
    (End-game-triple-pieces isn´t highlighted)
 
+AI can play against AI, but to quit the game, you should abuse windows´ exit button
