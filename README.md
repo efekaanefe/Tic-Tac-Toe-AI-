@@ -15,3 +15,4 @@ Min Max algorithm usage
 GUI can be improved. 
    (Terminal is used a lot to inform player)
    (End-game-triple-pieces isn´t highlighted)
+
